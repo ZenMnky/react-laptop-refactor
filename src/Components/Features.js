@@ -1,13 +1,11 @@
 import React, { Component } from 'react';
+import CustomizeFeatures from './CustomizeFeatures';
 
 class Features extends Component{
     render(){
         let {features} = this.props;
         return(
-            <form className="main__form">
-                <h2>Customize your laptop</h2>
-                {features}
-            </form>
+            <CustomizeFeatures features={features} />
         );
     }
 }
