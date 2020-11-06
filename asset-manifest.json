@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-laptop-refactor/static/css/main.72a41afd.chunk.css",
+    "main.js": "/react-laptop-refactor/static/js/main.124fe6c9.chunk.js",
+    "main.js.map": "/react-laptop-refactor/static/js/main.124fe6c9.chunk.js.map",
+    "runtime~main.js": "/react-laptop-refactor/static/js/runtime~main.84b9e849.js",
+    "runtime~main.js.map": "/react-laptop-refactor/static/js/runtime~main.84b9e849.js.map",
+    "static/js/2.6549ce60.chunk.js": "/react-laptop-refactor/static/js/2.6549ce60.chunk.js",
+    "static/js/2.6549ce60.chunk.js.map": "/react-laptop-refactor/static/js/2.6549ce60.chunk.js.map",
+    "index.html": "/react-laptop-refactor/index.html",
+    "precache-manifest.67066d105e869343bae472a0c978ce4f.js": "/react-laptop-refactor/precache-manifest.67066d105e869343bae472a0c978ce4f.js",
+    "service-worker.js": "/react-laptop-refactor/service-worker.js",
+    "static/css/main.72a41afd.chunk.css.map": "/react-laptop-refactor/static/css/main.72a41afd.chunk.css.map"
+  }
+}
